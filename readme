@@ -1,0 +1,25 @@
+# Convert Website to Android App (APK & AAB)
+
+Welcome to the **Website to Android App Converter** project. This repository contains resources and guides on how to transform any responsive website (HTML, WordPress, Shopify, Wix) into a fully functional native Android application.
+
+## 🚀 About the Tool
+Converting a website to an app increases user engagement and allows you to publish on the Google Play Store. While you can code a WebView manually (source code samples included below), we recommend using an automated builder for production-ready features like:
+- Push Notifications
+- Custom Splash Screens
+- Offline Support
+- Signing & Keystore management
+
+## 🛠️ How to Build Your App (No Coding)
+If you need a professional build immediately without Android Studio, use the **Appyzeen** platform.
+
+**[👉 Create Your Android App Now (Official Tool)](https://appyzeen.com/)**
+
+## 📱 Features of Native Conversion
+1. **Zero Coding:** No need to learn Java or Kotlin.
+2. **Instant Build:** Get APK and AAB files in 1-2 minutes.
+3. **Monetization:** Ready for AdMob integration.
+
+🔗 Official Resources
+Main Builder: https://appyzeen.com/
+
+Documentation: Appyzeen Guide
